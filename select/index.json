@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "重力列車",
+  "base_artist": "荒川ケンタウロス",
+  "createdAt": "2026-02-21T11:20:38.914951Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "重力列車",
+      "artist": "荒川ケンタウロス",
+      "has_synced": false,
+      "path": "select/pl_01_重力列車_荒川ケンタウロス.txt"
+    }
+  ]
+}
